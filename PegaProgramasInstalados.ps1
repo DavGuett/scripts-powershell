@@ -1,0 +1,1 @@
+﻿winget list | Out-File -Encoding ASCII -FilePath .\programasInstalados.txt
